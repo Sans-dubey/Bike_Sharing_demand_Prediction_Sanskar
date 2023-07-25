@@ -1,5 +1,6 @@
 # Bike_Sharing_demand_Prediction_Sanskar
 ### Welcome to the Bike Sharing Demand Prediction repository! This project focuses on predicting bike rental demand using supervised machine learning techniques.
+![Bike_Sharing_Demand_Prediction](Bike_Sharing_Demand_Prediction.jpg)
 
  The introduction of rental bikes in urban cities has aimed to enhance mobility comfort and offer the public an efficient means of transportation. Ensuring the availability of rental bikes at the right time is crucial to minimize waiting times for users and optimize their experience. However, providing a stable supply of rental bikes becomes a significant concern. To address this challenge, the key lies in accurately predicting the bike count required at each hour.
 
